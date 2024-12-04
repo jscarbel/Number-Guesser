@@ -44,8 +44,6 @@ guessButton.addEventListener("click", () => {
     computerWinsDisplay.innerText = "Computer Wins!!!";
   }
 
-  // winnerDisplay.innerText = humanIsWinner ? 'You win!' : 'Computer wins!';
-
   // Display the current scores:
   humanScoreDisplay.innerText = humanScore;
   computerScoreDisplay.innerText = computerScore;
